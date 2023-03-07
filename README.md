@@ -11,8 +11,6 @@
 
 <p>Looking to re-ignite my passion for code so let's open-source together!</p><p>Reach out to me on <a href="https://twitter.com/iamkieb" rel="noopener noreferrer" target="_blank">Twitter.</a></p>
 
----
-
 ## My Toolbox
 
 #### My day to day is a fantastic blend of...
