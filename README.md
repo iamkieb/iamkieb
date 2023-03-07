@@ -60,13 +60,14 @@
 [![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)](https://sass-lang.com)
 &emsp;
 
-#### and the occassional...
+#### & the occassional...
 [![json](https://img.shields.io/badge/json-ffa800?style=for-the-badge&logo=json&logoColor=white)](https://www.json.org/json-en.html)
 &emsp;
 [![xml](https://img.shields.io/badge/xml-686868?style=for-the-badge&logo=xml&logoColor=white)](https://www.w3.org/standards/xml/core#:~:text=What%20is%20XML%3F,more%20suitable%20for%20Web%20use.)
 &emsp;
 [![yaml](https://img.shields.io/badge/yaml-990099?style=for-the-badge&logo=yaml&logoColor=white)](https://yaml.org/)
 
-#### I also wrote something once, might do it again...
+#### I also wrote something once, might do it again.
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@iamkieb)
----
+
+#### Thank you for making it this far. Don't forget to reach out ☕️ 
