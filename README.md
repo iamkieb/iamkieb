@@ -1,5 +1,4 @@
 <h1>Hi! I'm Kieren.</h1>
-<hr>
 <h2>Digital Specialist x Brand Designer</h2>
 <hr>
 <p>I'm a digital specialist with a background in Computer Science and Business Management and decade-long swiss-army-knife, making digital and brand visions come to life in creative ways.</p>
