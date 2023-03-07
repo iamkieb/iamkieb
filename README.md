@@ -10,8 +10,6 @@
 
 <p>Trying to re-ignite my passion for code so let's open-source together! Send me a message on <a href="https://twitter.com/iamkieb" rel="noopener noreferrer" target="_blank">Twitter.</a></p>
 
----
-
 ## My Tools
 
 #### I sometimes work in...
