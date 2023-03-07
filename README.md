@@ -1,6 +1,5 @@
 <h1>Hi! I'm Kieren.</h1>
 <h2>Digital Specialist x Brand Designer</h2>
-<hr>
 <p>I'm a digital specialist with a background in Computer Science and Business Management and decade-long swiss-army-knife, making digital and brand visions come to life in creative ways.</p>
 
 - ⚡ I spend most my time creating audience-centric digital brands & experiences
@@ -8,8 +7,6 @@
 - 🌱 I’m currently learning Python
 - 🔭 I’m looking to explore open-source projects, freelance opportunites and meeting new people
 - 💬 Rack my brain about any of the above, brand strategy and oh yeah, all things digital
-
-
 
 <p>Trying to re-ignite my passion for code so let's open-source together! Send me a message on <a href="https://twitter.com/iamkieb" rel="noopener noreferrer" target="_blank">Twitter.</a></p>
 
