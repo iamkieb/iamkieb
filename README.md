@@ -1,6 +1,6 @@
 <h1>Hi! I'm Kieren.</h1>
 <h2>Digital Specialist x Brand Designer</h2>
-<p>I'm a digital specialist with a background in Computer Science and Business Management and decade-long swiss-army-knife, making digital and brand visions come to life in creative ways.</p>
+<p>I'm a digital specialist with a background in Computer Science and Business Management and a decade-long career as a swiss-army-knife, making digital and brand visions come to life in creative ways.</p>
 
 - ⚡ I spend most my time creating audience-centric digital brands & experiences
 - 🤓 I'm quite passionate about  music, football & self-development 🧘🏾‍♂️
