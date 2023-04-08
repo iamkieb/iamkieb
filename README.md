@@ -70,4 +70,6 @@
 #### I also wrote something once, might do it again.
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@iamkieb)
 
-#### Thank you for making it this far. Don't forget to reach out ☕️ 
+#### Thank you for making it this far. Don't forget to reach out ☕️
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamkieb&layout=compact)]
