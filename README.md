@@ -72,4 +72,4 @@
 
 #### Thank you for making it this far. Don't forget to reach out ☕️
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=iamkieb&theme=blue-green&layout=compact)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=iamkieb&theme=swift&layout=compact&card_width=500)
