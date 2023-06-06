@@ -4,7 +4,7 @@
 
 - ⚡ I spend most my time creating audience-centric digital brands & experiences
 - 🤓 I'm quite passionate about  music, football & self-development 🧘🏾‍♂️
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning React-Native
 - 🔭 I’m looking to explore open-source projects, freelance opportunites and meeting new people
 - 💬 Rack my brain about any of the above, brand strategy and oh yeah, all things digital
 - 🧐 You can learn a bit more about me <a href="http://www.whoiskie.com/" target="_blank">here</a>
